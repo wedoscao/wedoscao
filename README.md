@@ -4,7 +4,8 @@
 
 - 🌠 I’m *** Sang Cao (@wedoscao) ***
 - 💟 I’m interested in web development
-- 📖 I’m currently learning JavaScript, ReactJS \ 🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀
+- 📖 I’m currently learning JavaScript, ReactJS \
+🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀
 
 
 <!---
