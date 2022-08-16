@@ -1,13 +1,3 @@
-<style>
-        .heading {
-            color: cyan;
-        }
-
-        ul {
-            padding-left: 16px;
-        }
-    </style>
-
 <h1 class="heading">Hi there 👋</h1>
 <ul>
     <li>🌠 I'm <em>Sang Cao (@wedoscao)</em></li>
