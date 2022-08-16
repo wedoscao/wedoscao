@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @wedoscao
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+###Hi there 👋 
+
+- 🌠 I’m @wedoscao 🇻🇳
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning JavaScript, ReactJS
+
+
 
 <!---
 wedoscao/wedoscao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
