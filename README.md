@@ -1,9 +1,10 @@
+🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀
 ###Hi there 👋 
 
-- 🌠 I’m @wedoscao 🇻🇳
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript, ReactJS
-
+- 🌠 I’m @wedoscao
+- 💟 I’m interested in web development
+- 📖 I’m currently learning JavaScript, ReactJS
+🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀
 
 
 <!---
