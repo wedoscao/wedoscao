@@ -2,7 +2,7 @@
 
    ### Hi there 👋 
 
-- 🌠 I’m @wedoscao
+- 🌠 I’m *** Sang Cao (@wedoscao) ***
 - 💟 I’m interested in web development
 - 📖 I’m currently learning JavaScript, ReactJS\
 🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀
