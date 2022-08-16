@@ -2,7 +2,7 @@
 ### Hi there 👋 
 
 
-[![My Avatar](/assets/images/avatar.png "My Avatar")
+![My Avatar](/assets/images/avatar.png "My Avatar")
 
 - 🌠 I’m **Sang Cao (@wedoscao)**
 - 💟 I’m interested in **Web Development**
