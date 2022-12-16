@@ -2,7 +2,7 @@
 <ul>
     <li>🌠 I'm <em>Sang Cao (@wedoscao)</em></li>
     <li>💟 I'm interested in <em>Web Development</em></li>
-    <li>📖 I'm currently learning <em>JavaScript, ReactJS</em></li>
+    <li>📖 I'm currently learning <em>Web Development</em></li>
 </ul>
 
 🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀
