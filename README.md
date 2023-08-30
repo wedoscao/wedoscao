@@ -1,7 +1,7 @@
 #Hi there 👋
 
-*🌠 I'm ***Sang Cao (@wedoscao)***
-*💟 I'm interested in ***Web Development***
+* 🌠 I'm ***Sang Cao (@wedoscao)***
+* 💟 I'm interested in ***Web Development***
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wedoscao&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
